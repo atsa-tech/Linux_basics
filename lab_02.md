@@ -49,9 +49,9 @@
 
 ![Алиасы и $PS1](https://i.postimg.cc/wMNZf4XY/aliasy.png)
 
-![script221](https://i.postimg.cc/q77YVvs5/221.png)
+![script221](https://i.postimg.cc/PJJvTWk5/221.png)
 
-![script222](https://i.postimg.cc/br1VHDPH/222.png)
+![script222](https://i.postimg.cc/g28Xzc1H/222.png)
 
 ![script223](https://i.postimg.cc/DwvpLwMG/223.png)
 
